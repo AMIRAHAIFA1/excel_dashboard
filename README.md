@@ -5,7 +5,7 @@ It is intended to help business stakeholders:
 - Identify top-performing regions, segments, and categories.
 - Understand transaction patterns over time.
 - Make data-driven decisions to improve profitability and operational efficiency.
-[image alt]()
+[image alt](https://github.com/AMIRAHAIFA1/excel_dashboard/blob/main/Screenshotsuperstore.png)
 ## Overview 
 - Total Sales: $ 2,292,669
 - Total Profit: $ 286,397, approximated 12% profit gained
